@@ -83,7 +83,7 @@ import sys
 # if __name__ == '__main__':
 #     print(ord(sys.stdin.readline().rstrip()))
 
-#17 문자열 반복
+# 17 문자열 반복
 # if __name__ == '__main__':
 #     test_count = int(sys.stdin.readline().rstrip())
 #
@@ -94,14 +94,13 @@ import sys
 #             print(x * int(num),end="")
 #         print()
 
-#18 단어의 개수
-if __name__ == '__main__':
-    text = (sys.stdin.readline().strip())
-    if len(text) == 0:
-        print(0)
-    else:
-        print(len(text.split()))
-
+# 18 단어의 개수
+# if __name__ == '__main__':
+#     text = (sys.stdin.readline().strip())
+#     if len(text) == 0:
+#         print(0)
+#     else:
+#         print(len(text.split()))
 
 
 
