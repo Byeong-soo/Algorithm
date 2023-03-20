@@ -1,17 +1,21 @@
-import heapq
-
-ramen_stock = 4
-supply_dates = [4, 10, 15]
-supply_supplies = [20, 5, 10]
-supply_recover_k = 30
+shop_prices = [30000, 2000, 1500000]
+user_coupons = [20, 40]
 
 
-def get_minimum_count_of_overseas_supply(stock, dates, supplies, k):
-    # 풀어보세요!
-    return
+def get_max_discounted_price(prices, coupons):
+    prices.sort(reverse=True)
+    coupons.sort(reverse=True)
+
+    try:
+        for i in range(len(coupons)):
+            prices[i] *= 1-(coupons[i]/100)
+    except Exception:
+        pass
+
+    return int(sum(prices))
 
 if __name__ == '__main__':
-    print(get_minimum_count_of_overseas_supply(ramen_stock, supply_dates, supply_supplies, supply_recover_k))
-    print("정답 = 2 / 현재 풀이 값 = ", get_minimum_count_of_overseas_supply(4, [4, 10, 15], [20, 5, 10], 30))
-    print("정답 = 4 / 현재 풀이 값 = ", get_minimum_count_of_overseas_supply(4, [4, 10, 15, 20], [20, 5, 10, 5], 40))
-    print("정답 = 1 / 현재 풀이 값 = ", get_minimum_count_of_overseas_supply(2, [1, 10], [10, 100], 11))
+    print("정답 = 926000 / 현재 풀이 값 = ", get_max_discounted_price([30000, 2000, 1500000], [20, 40]))
+    print("정답 = 485000 / 현재 풀이 값 = ", get_max_discounted_price([50000, 1500000], [10, 70, 30, 20]))
+    print("정답 = 1550000 / 현재 풀이 값 = ", get_max_discounted_price([50000, 1500000], []))
+    print("정답 = 1458000 / 현재 풀이 값 = ", get_max_discounted_price([20000, 100000, 1500000], [10, 10, 10]))

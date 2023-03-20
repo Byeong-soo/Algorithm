@@ -1,0 +1,9 @@
+
+tpython:S117"XRename this local variable "A_count" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ÛÁúÿÿÿÿ
+tpython:S117"XRename this local variable "B_count" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ğÙòşÿÿÿÿ
+npython:S117"WRename this local variable "B_list" to match the regular expression ^[_a-z][a-z0-9_]*$.( ö
+ipython:S117"MRename this parameter "S" to match the regular expression ^[_a-z][a-z0-9_]*$.(±åœÉıÿÿÿÿ
+spython:S117"WRename this local variable "list_S" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬´íøÿÿÿÿ
+Hpython:S1481"0Remove the unused local variable "delete_count".(¨¡Õ¹
+Bpython:S125#"Remove this commented out code.(®â¢ÿÿÿÿÿ8Ã÷†çç0
+=python:S1250"Remove this commented out code.(Æ†÷Ü8Ã÷†çç0
