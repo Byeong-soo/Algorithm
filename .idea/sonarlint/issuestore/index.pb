@@ -67,8 +67,6 @@ Z
 *프로그래머스/level_1/옹알이(1).py,6/5/658754a9cd3c5a384cf371f56ba446cfb5d21974
 W
 '프로그래머스/level_1/삼총사.py,5/8/5850f3aafc008d96764796302a7a49a96edde91a
-c
-3프로그래머스/level_1/기사단원의무기.py,5/1/5163d0fa23a897bbb722a36bda5ef48b388cf356
 `
 0프로그래머스/level_1/쓱최대로할인.py,d/2/d21414b1483e913e9f9b3247a7b49ef0e272c98b
 Z
@@ -77,8 +75,6 @@ f
 6프로그래머스/level_1/멜론베스앨범뽑기.py,f/1/f18e42ef9b91a93138fbe8fff1d0c7050100d643
 K
 BaekJoon/silver/2606_dfs.py,1/3/13565646d4ebe2932cab4b8fe0c53004c340e458
-K
-BaekJoon/silver/1303_bfs.py,0/f/0f9436b4102d5c8802bc18ccb5a1acca773aea1e
 E
 Goorm/n_test/forth.py,5/d/5d9ddc97781bddbd2411dfc7f2c5994f792d3e35
 E
@@ -115,3 +111,33 @@ R
 "프로그래머스/chenal/first.py,1/7/1768694142acb6b5ed0f771b8dc4a2694ba13960
 S
 #프로그래머스/chenal/second.py,a/6/a69b6c01fd8e64b11aa3da4480f98c99846589fb
+H
+practice/stack_구현.py,8/7/874731b5e13575563d8975887b67b2f7d159d49c
+D
+practice/practice.py,f/d/fda0766606467a390b54b8d2626fbc8f2b85235b
+@
+practice/sort.py,6/9/6915889e142101b3a2ef723b1faf9f49efaae310
+H
+practice/queue_구현.py,1/1/118bfb6326d0d2d69f250659fa1f20f1ec736a5f
+N
+practice/linked_list_구현.py,7/0/7079539bc3e8aebebee617378414a0556b1600c9
+G
+BaekJoon/silver/1932.py,9/0/90f5bb1a0042f53dfcab8e5e833c34bc9b9b04c7
+]
+-프로그래머스/level_1/최소공배수.py,2/4/24652ca3d8ccb45edd339f06e923507bcc97b9d4
+Z
+*프로그래머스/level_1/콜라문제.py,9/e/9e0949fb46b025fa61b9c5409d7da93fe60be012
+c
+3프로그래머스/level_1/푸드파이터대회.py,c/7/c7c2645bbb5333f673f9f75e3f822377ff5ccc78
+]
+-프로그래머스/level_1/올바른괄호.py,e/9/e9f1091daf5e7ac5f39c170fe2a570f142484bb6
+f
+6프로그래머스/level_2/뒤에있는큰수찾기.py,4/7/47325631b521eace5760c3c5964a18d7bd88a108
+i
+9프로그래머스/level_2/JadenCase문자열만들기.py,2/2/225905fcdb521da4f507bc6c5b078e493df2eddc
+c
+3프로그래머스/level_1/가장가까운글자.py,7/0/70510417345a144acb473c7e83e454efac213cdd
+`
+0프로그래머스/level_2/피보나치의수.py,e/1/e17e6e2d1005503b41c9963b1474e1931f67fa54
+K
+BaekJoon/silver/1303_bfs.py,0/f/0f9436b4102d5c8802bc18ccb5a1acca773aea1e
