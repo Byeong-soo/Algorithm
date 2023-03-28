@@ -3,8 +3,6 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-=
-Algorithm.iml,9/e/9e5d20d3d95893377dd5a0da713140b86414eef4
 H
 BaekJoon/Bronze/11653.py,7/f/7f8cf42911bff938d0dff407db821fb9e81359f8
 H
@@ -137,7 +135,5 @@ i
 9프로그래머스/level_2/JadenCase문자열만들기.py,2/2/225905fcdb521da4f507bc6c5b078e493df2eddc
 c
 3프로그래머스/level_1/가장가까운글자.py,7/0/70510417345a144acb473c7e83e454efac213cdd
-`
-0프로그래머스/level_2/피보나치의수.py,e/1/e17e6e2d1005503b41c9963b1474e1931f67fa54
 K
 BaekJoon/silver/1303_bfs.py,0/f/0f9436b4102d5c8802bc18ccb5a1acca773aea1e
