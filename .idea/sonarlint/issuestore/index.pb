@@ -129,10 +129,6 @@ c
 3프로그래머스/level_1/푸드파이터대회.py,c/7/c7c2645bbb5333f673f9f75e3f822377ff5ccc78
 ]
 -프로그래머스/level_1/올바른괄호.py,e/9/e9f1091daf5e7ac5f39c170fe2a570f142484bb6
-f
-6프로그래머스/level_2/뒤에있는큰수찾기.py,4/7/47325631b521eace5760c3c5964a18d7bd88a108
-i
-9프로그래머스/level_2/JadenCase문자열만들기.py,2/2/225905fcdb521da4f507bc6c5b078e493df2eddc
 c
 3프로그래머스/level_1/가장가까운글자.py,7/0/70510417345a144acb473c7e83e454efac213cdd
 K
